@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+header, aside, article, footer {
+    border: 1px solid black;
+}
+article {
+    height: 500px;
+    width: 70%;
+    background-color: rgb(0, 200, 255);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header:nth-child(1) {
+
+}
+bal:nth-child(2) {
+
+}
+#csonak:nth-child(3) {
+    background-image: url(/kepek/csonak.png);
+}
+
+jobb:nth-child(4) {
+
+}
+footer:nth-child(5) {
+
+}
