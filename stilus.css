@@ -16,18 +16,19 @@ article {
     height: 500px;
     width: 70%;
     background-color: rgb(0, 200, 255);
+    background-image: url(/kepek/csonak.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-header:nth-child(1) {
+/* header:nth-child(1) {
 
 }
 bal:nth-child(2) {
 
 }
 #csonak:nth-child(3) {
-    background-image: url(/kepek/csonak.png);
+
 }
 
 jobb:nth-child(4) {
@@ -36,3 +37,4 @@ jobb:nth-child(4) {
 footer:nth-child(5) {
 
 }
+ */
